@@ -1,4 +1,5 @@
 {
+  "workbench.action.terminal.moveIntoNewWindow": "true",
   "ruff.nativeServer": "on",
   "editor.wordWrap": "off",
   "editor.semanticHighlighting.enabled": false,
